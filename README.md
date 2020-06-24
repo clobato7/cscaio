@@ -2,9 +2,8 @@
 Minhas CFGs do CSGO
 
 
-Basta dar unzip na pasta do Counter-Strike Global Offensive
-
-Ex: "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive"
+  - Basta dar unzip na pasta do Counter-Strike Global Offensive
+  -- Ex: "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive"
 
 OBS1: as configs de video tem que mudar manualmente o nome pq mudei elas para *_caio.txt pois elas iam sobrescrever as que estão na maquina e isso podia dar merda
 OBS2: o arquivo .cfg é a mesma situação, mudei para *_caio.cfg para não sobrescrever o que já tiver na maquina, então vai ser preciso executar o seguinte comando no console: "exec config_caio"
