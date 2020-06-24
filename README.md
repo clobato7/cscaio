@@ -1,6 +1,6 @@
 ### Instalação
 Para instalar minhas CFGs no CSGO.
-  - Basta dar unzip desse repositorio na pasta do **Counter-Strike Global Offensive**.
+  - Basta dar unzip dos arquivos desse repositorio na pasta do **Counter-Strike Global Offensive**.
     * Ex: "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive"
 
 #### Observações
